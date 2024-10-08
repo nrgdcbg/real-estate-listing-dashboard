@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Makati Modern Condo",
+    "location": "Makati City, Metro Manila",
+    "price": 15000000,
+    "status": "Available",
+    "rooms": 2,
+    "size": "85 sqm",
+    "description": "A luxurious modern condo unit located in the heart of Makati City, perfect for urban living with easy access to shopping centers and business districts.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Baguio City Vacation House",
+    "location": "Baguio City, Benguet",
+    "price": 12000000,
+    "status": "Occupied",
+    "rooms": 4,
+    "size": "200 sqm",
+    "description": "A beautiful vacation house located in the cool and scenic city of Baguio, with a spacious garden and a stunning mountain view.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Cebu Beachfront Villa",
+    "location": "Mactan, Cebu",
+    "price": 35000000,
+    "status": "Available",
+    "rooms": 5,
+    "size": "350 sqm",
+    "description": "A luxurious beachfront villa in Mactan, Cebu, offering stunning ocean views and direct beach access, ideal for those seeking a tropical lifestyle.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Davao Family Home",
+    "location": "Davao City, Davao del Sur",
+    "price": 8000000,
+    "status": "Available",
+    "rooms": 3,
+    "size": "150 sqm",
+    "description": "A cozy family home in a peaceful neighborhood of Davao City, perfect for raising a family with nearby schools and parks.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 5,
+    "name": "Tagaytay Hillside Retreat",
+    "location": "Tagaytay, Cavite",
+    "price": 18000000,
+    "status": "Occupied",
+    "rooms": 3,
+    "size": "180 sqm",
+    "description": "A serene hillside retreat in Tagaytay with breathtaking views of Taal Volcano, offering a perfect getaway from the bustling city life.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Boracay Beach Resort",
+    "location": "Boracay Island, Aklan",
+    "price": 25000000,
+    "status": "Available",
+    "rooms": 4,
+    "size": "300 sqm",
+    "description": "A stunning beachfront resort property located on the world-famous White Beach in Boracay, ideal for business or personal use.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Iloilo Heritage House",
+    "location": "Iloilo City, Iloilo",
+    "price": 9000000,
+    "status": "Occupied",
+    "rooms": 5,
+    "size": "250 sqm",
+    "description": "A charming heritage house showcasing traditional Filipino architecture, situated in the vibrant city of Iloilo.",
+    "images": ["/images/property-default-image.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Bohol Countryside Villa",
+    "location": "Panglao, Bohol",
+    "price": 17000000,
+    "status": "Available",
+    "rooms": 3,
+    "size": "200 sqm",
+    "description": "A picturesque villa surrounded by lush greenery in Panglao, Bohol, just a short drive from the famous beaches.",
+    "images": ["/images/property-default-image.jpg"]
+  }
+]

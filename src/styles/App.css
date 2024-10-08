@@ -1,0 +1,93 @@
+.app {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.property-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.property-card {
+    display: flex;
+    gap: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.property-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+}
+
+.property-details {
+    flex: 1;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.pagination button {
+    margin: 0 5px;
+    padding: 10px 15px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.pagination button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.property-detail {
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.images {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    overflow-x: auto;
+}
+
+.images img {
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.close-button {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.close-button:hover {
+    background-color: #ff1a1a;
+}
+
+.filter-panel {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
